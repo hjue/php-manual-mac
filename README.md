@@ -11,4 +11,4 @@ Mac版PHP手册，可离线查看php文档，为使用Mac的PHP开发者设计�
 
 ## Todo List
 
-* 目录浏览PHP文档，类似chmw文档的体验
+* 目录浏览PHP文档，类似chm文档的体验
