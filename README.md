@@ -4,7 +4,7 @@ Mac版PHP手册，可离线查看php文档，为使用Mac的PHP开发者设计�
 
 ## 安装
 
-[点这里下载安装文件](/release/PHPHandBook.dmg?raw=true)
+[点这里下载安装文件](http://126.am/eVv2S1)
 
 ![Screen](/help/screen.png?raw=true)
 
